@@ -1,0 +1,24 @@
+{
+  "name": "gatsbyImage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "^2.19.32",
+    "gatsby-image": "^2.2.43",
+    "gatsby-plugin-postcss": "^2.2.1",
+    "gatsby-plugin-purgecss": "^5.0.0",
+    "gatsby-plugin-sharp": "^2.4.7",
+    "gatsby-source-filesystem": "^2.1.50",
+    "gatsby-transformer-sharp": "^2.3.17",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "tailwindcss": "^1.2.0"
+  }
+}
